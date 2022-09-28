@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(26, 26, 26);
+    color: aliceblue;
+    margin: 0;
+}
+
+h1 {
+    border: 1px solid red;
+    margin: 200px;
+    padding: 60px;
+}
